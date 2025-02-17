@@ -89,7 +89,7 @@ Run 'npm test' in your terminal.
 2. Apply database and frontend development principles
 3. Follow good programming standards
 4. Develop and execute robust testing strategies
-5. Use GitHub effectively for collaboration and documentation
+5. Use GitHub effectively for documentation and tracking progress of work
 6. Prepare for a viva to explain project design and code implementation
 
 ## TODO
