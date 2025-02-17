@@ -123,10 +123,9 @@ Run 'npm test' in your terminal.
 4. Consider implementing a caching mechanism for frequently accessed data
 
 ## Git Workflow
-1. Create a new branch for each feature or bug fix
-2. Make small, frequent commits with clear messages
-3. Open pull requests for code review before merging into the main branch
-4. Use GitHub Issues to track tasks and bugs
+1. Make small, frequent commits with clear messages
+(Optional) 2. Create a new branch for each feature or bug fix.
+(Optional) 3. Use GitHub Issues to track tasks and bugs
 
 ## Viva Preparation
 Be prepared to discuss:
